@@ -29,5 +29,5 @@ gem 'newrelic_rpm', '~> 3.5.0'
 
 group :development, :test do
   gem 'factory_girl_rails', '~> 4.2.0'
-  gem 'rspec-rails',        '~> 2.13.0'
+  gem 'rspec-rails',        '~> 3.8'
 end
